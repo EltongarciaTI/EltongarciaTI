@@ -10,7 +10,7 @@ Desenvolvedor Full Stack focado em criar **sites e sistemas sob medida** — do 
 
 Tenho domínio forte em **uso avançado de Inteligência Artificial**: sei aplicar IA de forma correta e eficiente em automação de processos (**RPA**), **criptografia** e **pentest**, escolhendo a ferramenta certa pra cada problema e sabendo tirar o máximo dela.
 
-🎓 Técnico em Informática (Ensino Médio Técnico) pelo Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA) — Campus Euclides da Cunha.
+🎓 Curso Técnico em Informática (Nível Médio) pelo Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA) — Campus Euclides da Cunha.
 
 🌐 Portfólio completo: **[eltongarciati.github.io](https://eltongarciati.github.io)**
 
