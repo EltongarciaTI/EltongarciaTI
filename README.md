@@ -32,6 +32,8 @@ Tenho domínio forte em **uso avançado de Inteligência Artificial**: sei aplic
 
 **IA aplicada:** `Uso avançado de LLMs` `RPA / Automação de processos` `n8n (Docker)` `Prompt Engineering` `Criptografia com apoio de IA` `Pentest com apoio de IA`
 
+**Fundamentos do curso técnico (IFBA):** `Lógica de Programação` `Estrutura de Dados` `Arquitetura de Computadores` `Sistemas Operacionais` `Redes de Computadores` `Java (OO)` `C#` `Análise e Modelagem de Dados`
+
 ### 📊 Estatísticas
 
 <p align="center">
