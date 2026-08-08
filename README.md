@@ -41,25 +41,27 @@ Tenho domínio forte em **uso avançado de Inteligência Artificial**: sei aplic
 
 <details>
 <summary>📚 Grade curricular — Técnico em Informática (IFBA)</summary>
-<br>
 
-- Arquitetura de Computadores Subsequente
+**Principais**
+- Linguagem I – OO com Java
+- Desenvolvimento Web I
+- Desenvolvimento Web II
 - Banco de Dados
+- Rede de Computadores I
+- Rede de Computadores II
+
+**Extras**
+- Arquitetura de Computadores Subsequente
 - Desenho Técnico
 - Estrutura de Dados
-- Linguagem I – OO com Java
 - Sistemas Operacionais
 - Análise e Modelagem de Dados
-- Desenvolvimento Web I
 - Eletrônica Digital Básica
 - Linguagem II – C#
-- Rede de Computadores I
-- Desenvolvimento Web II
 - Empreendedorismo
 - Gestão de Organizações
 - Organização, Normas e Qualidade
 - Projeto Integrador
-- Rede de Computadores II
 - Segurança, Meio Ambiente e Saúde Sub. Informática
 - Física Aplicada
 - Inglês Técnico
