@@ -1,4 +1,10 @@
-# Olá, eu sou o Elton 👋
+<p align="center">
+  <img src="./banner.svg" alt="Elton Garcia" width="100%" />
+</p>
+
+<p align="center">
+  <img src="./terminal.svg" alt="System boot" width="100%" />
+</p>
 
 Desenvolvedor Full Stack focado em criar **sites e sistemas sob medida** — do planejamento ao deploy — para negócios locais e projetos próprios. Também atuo com **cibersegurança e pentest**.
 

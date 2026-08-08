@@ -1,0 +1,68 @@
+<svg width="900" height="340" viewBox="0 0 900 340" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="tbg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#12151d"/>
+      <stop offset="100%" stop-color="#0b0d12"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="340" rx="14" fill="url(#tbg)" stroke="#242938" stroke-width="1.5"/>
+
+  <!-- title bar -->
+  <rect x="0" y="0" width="900" height="40" rx="14" fill="#161a24"/>
+  <rect x="0" y="26" width="900" height="14" fill="#161a24"/>
+  <circle cx="26" cy="20" r="6" fill="#ff5f56"/>
+  <circle cx="46" cy="20" r="6" fill="#ffbd2e"/>
+  <circle cx="66" cy="20" r="6" fill="#27c93f"/>
+  <text x="450" y="25" text-anchor="middle" font-family="Consolas, monospace" font-size="13" fill="#9aa3b8">elton@core: ~/system</text>
+
+  <g font-family="Consolas, 'Courier New', monospace" font-size="17" fill="#e9ecf3">
+
+    <text x="30" y="75" fill="#6ee7b7" opacity="0">
+      &gt; ELTON SYSTEM v2.0
+      <animate attributeName="opacity" to="1" begin="0.2s" dur="0.4s" fill="freeze"/>
+    </text>
+
+    <text x="30" y="105" opacity="0">
+      Initializing system...
+      <animate attributeName="opacity" to="1" begin="0.8s" dur="0.4s" fill="freeze"/>
+    </text>
+
+    <text x="30" y="135" font-size="16" fill="#6ee7b7" opacity="0">
+      [████████████████████] 100%
+      <animate attributeName="opacity" to="1" begin="1.3s" dur="0.3s" fill="freeze"/>
+    </text>
+
+    <text x="30" y="170" opacity="0">
+      <tspan fill="#6ee7b7">&#10003;</tspan> Desenvolvedor detectado
+      <animate attributeName="opacity" to="1" begin="3.1s" dur="0.3s" fill="freeze"/>
+    </text>
+
+    <text x="30" y="198" opacity="0">
+      <tspan fill="#6ee7b7">&#10003;</tspan> M&#243;dulo Full Stack ativado
+      <animate attributeName="opacity" to="1" begin="3.5s" dur="0.3s" fill="freeze"/>
+    </text>
+
+    <text x="30" y="226" opacity="0">
+      <tspan fill="#6ee7b7">&#10003;</tspan> Ciberseguran&#231;a &amp; Pentest habilitados
+      <animate attributeName="opacity" to="1" begin="3.9s" dur="0.3s" fill="freeze"/>
+    </text>
+
+    <text x="30" y="254" opacity="0">
+      <tspan fill="#6ee7b7">&#10003;</tspan> Projetos carregados: 4 em produ&#231;&#227;o
+      <animate attributeName="opacity" to="1" begin="4.3s" dur="0.3s" fill="freeze"/>
+    </text>
+
+    <text x="30" y="296" font-size="19" font-weight="bold" fill="#6ee7b7" opacity="0">
+      STATUS: ONLINE
+      <animate attributeName="opacity" to="1" begin="4.9s" dur="0.3s" fill="freeze"/>
+      <animate attributeName="opacity" values="1;0.35;1" begin="5.2s" dur="1.6s" repeatCount="indefinite"/>
+    </text>
+
+    <rect x="215" y="282" width="11" height="18" fill="#6ee7b7" opacity="0">
+      <animate attributeName="opacity" to="1" begin="4.9s" dur="0.3s" fill="freeze"/>
+      <animate attributeName="opacity" values="1;0;1" begin="4.9s" dur="1s" repeatCount="indefinite"/>
+    </rect>
+
+  </g>
+</svg>
