@@ -28,7 +28,7 @@ Tenho domínio forte em **uso avançado de Inteligência Artificial**: sei aplic
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,git,github,linux,vscode,figma&theme=dark" alt="Skills" />
 </p>
 
-**Desenvolvimento:** `HTML/CSS/JS` `Node.js` `Python` `Streamlit` `SQL / Banco de Dados` `APIs REST` `Docker` `Linux (Debian)` `Git & GitHub` `Deploy em VPS` `GitHub Pages`
+**Desenvolvimento:** `HTML/CSS/JS` `Node.js` `Java` `Python` `Streamlit` `SQL / Banco de Dados` `APIs REST` `Docker` `Linux (Debian)` `Git & GitHub` `Deploy em VPS` `GitHub Pages`
 
 **IA aplicada:** `Uso avançado de LLMs` `RPA / Automação de processos` `n8n (Docker)` `Prompt Engineering` `Criptografia com apoio de IA` `Pentest com apoio de IA`
 
