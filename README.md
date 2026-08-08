@@ -31,7 +31,7 @@ Desenvolvedor Full Stack focado em criar **sites e sistemas sob medida** — do 
 ### 📊 Estatísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EltongarciaTI&show_icons=true&theme=dark&bg_color=0b0d12&title_color=6ee7b7&icon_color=7c9bff&text_color=e9ecf3&border_color=242938&hide_border=false&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=EltongarciaTI&show_icons=true&theme=dark&bg_color=0b0d12&title_color=6ee7b7&icon_color=7c9bff&text_color=e9ecf3&border_color=242938&hide_border=false&count_private=true" alt="GitHub stats" />
   <img height="165" src="https://streak-stats.demolab.com?user=EltongarciaTI&theme=dark&background=0b0d12&stroke=242938&ring=6ee7b7&fire=7c9bff&currStreakLabel=6ee7b7&sideLabels=e9ecf3&currStreakNum=e9ecf3&sideNums=e9ecf3&dates=9aa3b8" alt="GitHub streak" />
 </p>
 
