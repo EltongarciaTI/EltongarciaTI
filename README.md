@@ -21,7 +21,19 @@ Desenvolvedor Full Stack focado em criar **sites e sistemas sob medida** — do 
 - **[VN Palpites](https://vnyuhb.com)** — site de palpites esportivos
 
 ### 🛠️ Stack & habilidades
-`HTML` `CSS` `JavaScript` `Node.js` `Python` `Streamlit` `Git & GitHub` `Deploy em VPS` `GitHub Pages` `Cibersegurança` `Pentest` `Criptografia`
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,git,github,linux,vscode,figma&theme=dark" alt="Skills" />
+</p>
+
+`Streamlit` `Deploy em VPS` `GitHub Pages` `Cibersegurança` `Pentest` `Criptografia`
+
+### 📊 Estatísticas
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EltongarciaTI&show_icons=true&theme=dark&bg_color=0b0d12&title_color=6ee7b7&icon_color=7c9bff&text_color=e9ecf3&border_color=242938&hide_border=false&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=EltongarciaTI&theme=dark&background=0b0d12&stroke=242938&ring=6ee7b7&fire=7c9bff&currStreakLabel=6ee7b7&sideLabels=e9ecf3&currStreakNum=e9ecf3&sideNums=e9ecf3&dates=9aa3b8" alt="GitHub streak" />
+</p>
 
 <details>
 <summary>📚 Grade curricular — Técnico em Informática (IFBA)</summary>
