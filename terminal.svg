@@ -44,7 +44,7 @@
     </text>
 
     <text x="30" y="226" opacity="0">
-      <tspan fill="#6ee7b7">&#10003;</tspan> Ciberseguran&#231;a &amp; Pentest habilitados
+      <tspan fill="#6ee7b7">&#10003;</tspan> IA aplicada: RPA, criptografia &amp; pentest
       <animate attributeName="opacity" to="1" begin="3.9s" dur="0.3s" fill="freeze"/>
     </text>
 

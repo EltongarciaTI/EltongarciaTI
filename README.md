@@ -6,7 +6,9 @@
   <img src="./terminal.svg" alt="System boot" width="100%" />
 </p>
 
-Desenvolvedor Full Stack focado em criar **sites e sistemas sob medida** — do planejamento ao deploy — para negócios locais e projetos próprios. Também atuo com **cibersegurança e pentest**.
+Desenvolvedor Full Stack focado em criar **sites e sistemas sob medida** — do planejamento ao deploy — para negócios locais e projetos próprios.
+
+Tenho domínio forte em **uso avançado de Inteligência Artificial**: sei aplicar IA de forma correta e eficiente em automação de processos (**RPA**), **criptografia** e **pentest**, escolhendo a ferramenta certa pra cada problema e sabendo tirar o máximo dela.
 
 🎓 Técnico em Informática Avançado pelo Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA) — Campus Euclides da Cunha.
 
@@ -26,7 +28,9 @@ Desenvolvedor Full Stack focado em criar **sites e sistemas sob medida** — do 
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,git,github,linux,vscode,figma&theme=dark" alt="Skills" />
 </p>
 
-`Streamlit` `Deploy em VPS` `GitHub Pages` `Cibersegurança` `Pentest` `Criptografia`
+**Desenvolvimento:** `HTML/CSS/JS` `Node.js` `Python` `Streamlit` `Git & GitHub` `Deploy em VPS` `GitHub Pages`
+
+**IA aplicada:** `Uso avançado de LLMs` `RPA / Automação de processos` `Prompt Engineering` `Criptografia com apoio de IA` `Pentest com apoio de IA`
 
 ### 📊 Estatísticas
 
