@@ -6,11 +6,11 @@
   <img src="./terminal.svg" alt="System boot" width="100%" />
 </p>
 
-Desenvolvedor Full Stack focado em criar **sites e sistemas sob medida** — do planejamento ao deploy — para negócios locais e projetos próprios.
+Desenvolvedor Full Stack focado em criar **sites e sistemas sob medida** — do planejamento ao deploy — para negócios locais e projetos próprios. Gosto especialmente da parte de **banco de dados** e **APIs**, e de criar coisas que facilitam o dia a dia de quem usa.
 
 Tenho domínio forte em **uso avançado de Inteligência Artificial**: sei aplicar IA de forma correta e eficiente em automação de processos (**RPA**), **criptografia** e **pentest**, escolhendo a ferramenta certa pra cada problema e sabendo tirar o máximo dela.
 
-🎓 Técnico em Informática Avançado pelo Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA) — Campus Euclides da Cunha.
+🎓 Técnico em Informática (Ensino Médio Técnico) pelo Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA) — Campus Euclides da Cunha.
 
 🌐 Portfólio completo: **[eltongarciati.github.io](https://eltongarciati.github.io)**
 
