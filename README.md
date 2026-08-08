@@ -30,7 +30,7 @@ Tenho domínio forte em **uso avançado de Inteligência Artificial**: sei aplic
 
 **Desenvolvimento:** `HTML/CSS/JS` `Node.js` `Python` `Streamlit` `Git & GitHub` `Deploy em VPS` `GitHub Pages`
 
-**IA aplicada:** `Uso avançado de LLMs` `RPA / Automação de processos` `Prompt Engineering` `Criptografia com apoio de IA` `Pentest com apoio de IA`
+**IA aplicada:** `Uso avançado de LLMs` `RPA / Automação de processos` `n8n (Docker)` `Prompt Engineering` `Criptografia com apoio de IA` `Pentest com apoio de IA`
 
 ### 📊 Estatísticas
 
